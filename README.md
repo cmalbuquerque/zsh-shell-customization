@@ -4,7 +4,7 @@
 <img align="left" alt="Before configuration" width="400px" src="https://i.ibb.co/km0t2RY/Captura-de-ecr-2020-10-19-s-10-30-34.png" />
 <img align="center" alt="After configuration" width="400px" src="https://i.ibb.co/F6j6Fyj/Captura-de-ecr-2020-10-19-s-10-33-39.png" />
 
-Open zshrc config file using a text editor ` nano ~/.zshrc` in order to add costum configurations.
+Open zshrc config file using a text editor ` nano ~/.zshrc` in order to add custom configurations.
 
 #### Including Git Branch Information
 
@@ -43,4 +43,4 @@ PROMPT='%F{cyan}%n%f ${PWD/#$HOME/~} %B%F{green}${vcs_info_msg_0_}%f%b > '
 
 #### Changing Shell Background
 
-I used shell preferences to costumize shell background color and effects by changing the color opacity and blur to make a semi transparent effect.
+I used shell preferences to customize shell background color and effects by changing the color opacity and blur to make a semi transparent effect.
