@@ -1,4 +1,4 @@
-# Costumize your zsh prompt ⌨️
+# Customize your zsh prompt ⌨️
 
 
 <img align="left" alt="Before configuration" width="400px" src="https://i.ibb.co/km0t2RY/Captura-de-ecr-2020-10-19-s-10-30-34.png" />
